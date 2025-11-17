@@ -1,25 +1,6 @@
 {
-  "name": "autoprime",
-  "version": "1.0.0",
-  "description": "API simples criada com Express",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js",
-    "test": "echo \"No test specified\" && exit 1"
-  },
-  "keywords": [
-    "express",
-    "api",
-    "nodejs"
-  ],
-  "author": "João Vitor Lino",
-  "license": "ISC",
+  "description": "",
   "dependencies": {
     "express": "^5.1.0"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.0"
   }
 }
